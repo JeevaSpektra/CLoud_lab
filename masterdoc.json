@@ -1,0 +1,33 @@
+[
+    {
+      "Name": "Cloud lab",
+      "Language": "English",
+      "Files": [
+          {
+          "RawFilePath": "https://raw.githubusercontent.com/JeevaSpektra/CLoud_lab/main/README.md",
+            
+          "Order": 1  
+        },
+        {
+          "RawFilePath": "https://github.com/JeevaSpektra/CLoud_lab/blob/main/Cloud_Document.md",
+          "Order": 2 
+        },
+        {
+          "RawFilePath": "https://github.com/JeevaSpektra/CLoud_lab/blob/main/Demo.md",
+          "Order": 3
+        },
+        {
+          "RawFilePath": "https://github.com/JeevaSpektra/CLoud_lab/blob/main/Troubleshootguide.md",
+          "Order": 4
+        },
+        {
+          "RawFilePath": "https://github.com/JeevaSpektra/CLoud_lab/blob/main/Prerequisites%20.md",
+          "Order": 5
+        }
+        {
+          "RawFilePath": "https://github.com/JeevaSpektra/CLoud_lab/blob/main/Usage%20Policy.md",
+          "Order": 5
+        }
+      ]
+    }
+  ]
